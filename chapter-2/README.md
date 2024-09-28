@@ -1,0 +1,3 @@
+# Chapter 2: Pythonic Code
+
+In programming, an idioms is a particular way of writing code in order to perform a specific task. It is something common that repeats and follows the same structure every time. Some could even argue and call them a pattern, but be careful because they are not designed patterns(which we will explore later on). The main difference is that design patterns are high level ideas, independent from the language(sort of), but they do not translate into code immediately. On the other hand, idioms are actually codded. It is the way thing should be written when we want to perform a particular task.
